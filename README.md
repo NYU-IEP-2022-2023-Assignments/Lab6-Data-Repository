@@ -1,4 +1,4 @@
-# Lab4-Data-Repository
+# Lab6-Data-Repository
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
@@ -14,7 +14,7 @@ After you log in, click on the tab that says "git" and click "save." This will m
 
 Accept the assignment link from: https://classroom.github.com/a/92bnKoO9
 
-Clone the repository you created by accepting the assignment. The repository name will be NYU-IEP-2022-3-Classroom/lab5-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
+Clone the repository you created by accepting the assignment. The repository name will be NYU-IEP-2022-3-Classroom/lab6-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
 
 ![github_clone_button](https://user-images.githubusercontent.com/237963/137568755-a3271eaf-f7a9-49cb-87bc-b93a075b3be3.png)
 
@@ -26,11 +26,11 @@ Then open the repository in explorer
 
 ![github_open_repo](https://user-images.githubusercontent.com/237963/137568880-5376ad9b-3b37-488d-9003-266f36f2a936.png)
 
-Copy your data into the repository
+Note where the files are stored, so you can access them in labview.
 
-![copy_data](https://user-images.githubusercontent.com/237963/137568989-576c730c-903a-4697-8768-4aeb6d3e1fda.png)
+Set this repository as your data directory using the file control panel and following the instructions in the lab handout. 
 
-Then go back to github desktop. You should see lots of changed files. Type in a commit message and hit the "commit to main" button
+To "push" your data to github for use in analysis: Go back to github desktop. You should see lots of changed files. Type in a commit message and hit the "commit to main" button
 
 ![github_commit](https://user-images.githubusercontent.com/237963/137569114-44c4c719-dfe5-49b9-a111-15c1681f2f61.png)
 
